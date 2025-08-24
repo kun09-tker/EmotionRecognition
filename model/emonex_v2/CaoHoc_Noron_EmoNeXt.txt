@@ -1,0 +1,603 @@
+
+**Start***
+Phase 1 - Epoch 1/200
+  Train loss: 1.5687, acc: 0.4566, f1: 0.3666
+  Val   loss: 1.4523, acc: 0.5220, f1: 0.4245
+Phase 1 - Epoch 2/200
+  Train loss: 1.4354, acc: 0.5370, f1: 0.4383
+  Val   loss: 1.3927, acc: 0.5665, f1: 0.4612
+Phase 1 - Epoch 3/200
+  Train loss: 1.3896, acc: 0.5656, f1: 0.4661
+  Val   loss: 1.3595, acc: 0.5862, f1: 0.4806
+Phase 1 - Epoch 4/200
+  Train loss: 1.3592, acc: 0.5847, f1: 0.4844
+  Val   loss: 1.3513, acc: 0.5942, f1: 0.4989
+Phase 1 - Epoch 5/200
+  Train loss: 1.3330, acc: 0.6055, f1: 0.5048
+  Val   loss: 1.3045, acc: 0.6302, f1: 0.5211
+Phase 1 - Epoch 6/200
+  Train loss: 1.3091, acc: 0.6227, f1: 0.5204
+  Val   loss: 1.2898, acc: 0.6408, f1: 0.5314
+Phase 1 - Epoch 7/200
+  Train loss: 1.2912, acc: 0.6367, f1: 0.5337
+  Val   loss: 1.2717, acc: 0.6578, f1: 0.5533
+Phase 1 - Epoch 8/200
+  Train loss: 1.2696, acc: 0.6514, f1: 0.5472
+  Val   loss: 1.3972, acc: 0.5997, f1: 0.5079
+Phase 1 - Epoch 9/200
+  Train loss: 1.2501, acc: 0.6677, f1: 0.5621
+  Val   loss: 1.2204, acc: 0.6954, f1: 0.5835
+Phase 1 - Epoch 10/200
+  Train loss: 1.2252, acc: 0.6838, f1: 0.5773
+  Val   loss: 1.1969, acc: 0.7100, f1: 0.6013
+Phase 1 - Epoch 11/200
+  Train loss: 1.2007, acc: 0.7002, f1: 0.5920
+  Val   loss: 1.1655, acc: 0.7269, f1: 0.6182
+Phase 1 - Epoch 12/200
+  Train loss: 1.1738, acc: 0.7191, f1: 0.6119
+  Val   loss: 1.1337, acc: 0.7513, f1: 0.6421
+Phase 1 - Epoch 13/200
+  Train loss: 1.1456, acc: 0.7432, f1: 0.6324
+  Val   loss: 1.1033, acc: 0.7721, f1: 0.6632
+Phase 1 - Epoch 14/200
+  Train loss: 1.1152, acc: 0.7625, f1: 0.6556
+  Val   loss: 1.1188, acc: 0.7656, f1: 0.6504
+Phase 1 - Epoch 15/200
+  Train loss: 1.0880, acc: 0.7801, f1: 0.6726
+  Val   loss: 1.0579, acc: 0.7999, f1: 0.6898
+Phase 1 - Epoch 16/200
+  Train loss: 1.0634, acc: 0.7978, f1: 0.6893
+  Val   loss: 1.0907, acc: 0.7883, f1: 0.6710
+Phase 1 - Epoch 17/200
+  Train loss: 1.0474, acc: 0.8072, f1: 0.7006
+  Val   loss: 1.0152, acc: 0.8285, f1: 0.7177
+Phase 1 - Epoch 18/200
+  Train loss: 1.0278, acc: 0.8206, f1: 0.7186
+  Val   loss: 1.0122, acc: 0.8293, f1: 0.7190
+Phase 1 - Epoch 19/200
+  Train loss: 1.0119, acc: 0.8287, f1: 0.7235
+  Val   loss: 1.0218, acc: 0.8231, f1: 0.7158
+Phase 1 - Epoch 20/200
+  Train loss: 1.0021, acc: 0.8351, f1: 0.7276
+  Val   loss: 1.0237, acc: 0.8274, f1: 0.7125
+Phase 1 - Epoch 21/200
+  Train loss: 0.9953, acc: 0.8364, f1: 0.7339
+  Val   loss: 0.9818, acc: 0.8488, f1: 0.7430
+Phase 1 - Epoch 22/200
+  Train loss: 0.9859, acc: 0.8433, f1: 0.7420
+  Val   loss: 0.9775, acc: 0.8475, f1: 0.7453
+Phase 1 - Epoch 23/200
+  Train loss: 0.9816, acc: 0.8484, f1: 0.7465
+  Val   loss: 0.9711, acc: 0.8544, f1: 0.7493
+Phase 1 - Epoch 24/200
+  Train loss: 0.9764, acc: 0.8493, f1: 0.7459
+  Val   loss: 0.9670, acc: 0.8554, f1: 0.7634
+Phase 1 - Epoch 25/200
+  Train loss: 0.9732, acc: 0.8513, f1: 0.7497
+  Val   loss: 0.9659, acc: 0.8554, f1: 0.7628
+Phase 1 - Epoch 26/200
+  Train loss: 0.9678, acc: 0.8554, f1: 0.7541
+  Val   loss: 0.9738, acc: 0.8507, f1: 0.7603
+Phase 1 - Epoch 27/200
+  Train loss: 0.9716, acc: 0.8544, f1: 0.7557
+  Val   loss: 0.9595, acc: 0.8597, f1: 0.7534
+Phase 1 - Epoch 28/200
+  Train loss: 0.9601, acc: 0.8585, f1: 0.7562
+  Val   loss: 0.9532, acc: 0.8637, f1: 0.7662
+Phase 1 - Epoch 29/200
+  Train loss: 0.9593, acc: 0.8609, f1: 0.7687
+  Val   loss: 0.9588, acc: 0.8619, f1: 0.7622
+Phase 1 - Epoch 30/200
+  Train loss: 0.9573, acc: 0.8609, f1: 0.7628
+  Val   loss: 0.9464, acc: 0.8682, f1: 0.7804
+Phase 1 - Epoch 31/200
+  Train loss: 0.9532, acc: 0.8635, f1: 0.7699
+  Val   loss: 0.9684, acc: 0.8542, f1: 0.7536
+Phase 1 - Epoch 32/200
+  Train loss: 0.9529, acc: 0.8644, f1: 0.7711
+  Val   loss: 0.9411, acc: 0.8706, f1: 0.7803
+Phase 1 - Epoch 33/200
+  Train loss: 0.9509, acc: 0.8638, f1: 0.7688
+  Val   loss: 0.9503, acc: 0.8651, f1: 0.7775
+Phase 1 - Epoch 34/200
+  Train loss: 0.9464, acc: 0.8681, f1: 0.7797
+  Val   loss: 0.9610, acc: 0.8610, f1: 0.7718
+Phase 1 - Epoch 35/200
+  Train loss: 0.9483, acc: 0.8678, f1: 0.7821
+  Val   loss: 0.9432, acc: 0.8707, f1: 0.7846
+Phase 1 - Epoch 36/200
+  Train loss: 0.9459, acc: 0.8677, f1: 0.7786
+  Val   loss: 0.9409, acc: 0.8739, f1: 0.7797
+Phase 1 - Epoch 37/200
+  Train loss: 0.9424, acc: 0.8710, f1: 0.7847
+  Val   loss: 0.9360, acc: 0.8771, f1: 0.7894
+Phase 1 - Epoch 38/200
+  Train loss: 0.9430, acc: 0.8708, f1: 0.7875
+  Val   loss: 0.9393, acc: 0.8742, f1: 0.7867
+Phase 1 - Epoch 39/200
+  Train loss: 0.9404, acc: 0.8719, f1: 0.7841
+  Val   loss: 0.9340, acc: 0.8778, f1: 0.7943
+Phase 1 - Epoch 40/200
+  Train loss: 0.9416, acc: 0.8719, f1: 0.7881
+  Val   loss: 0.9431, acc: 0.8717, f1: 0.7897
+Phase 1 - Epoch 41/200
+  Train loss: 0.9370, acc: 0.8742, f1: 0.7887
+  Val   loss: 0.9285, acc: 0.8802, f1: 0.7996
+Phase 1 - Epoch 42/200
+  Train loss: 0.9363, acc: 0.8758, f1: 0.7941
+  Val   loss: 0.9549, acc: 0.8657, f1: 0.7898
+Phase 1 - Epoch 43/200
+  Train loss: 0.9380, acc: 0.8737, f1: 0.7916
+  Val   loss: 0.9259, acc: 0.8833, f1: 0.7990
+Phase 1 - Epoch 44/200
+  Train loss: 0.9328, acc: 0.8787, f1: 0.7983
+  Val   loss: 0.9262, acc: 0.8825, f1: 0.8073
+Phase 1 - Epoch 45/200
+  Train loss: 0.9339, acc: 0.8762, f1: 0.7992
+  Val   loss: 0.9262, acc: 0.8826, f1: 0.7986
+Phase 1 - Epoch 46/200
+  Train loss: 0.9315, acc: 0.8790, f1: 0.8018
+  Val   loss: 0.9403, acc: 0.8753, f1: 0.7969
+Phase 1 - Epoch 47/200
+  Train loss: 0.9294, acc: 0.8802, f1: 0.8023
+  Val   loss: 0.9275, acc: 0.8833, f1: 0.8108
+Phase 1 - Epoch 48/200
+  Train loss: 0.9321, acc: 0.8786, f1: 0.8042
+  Val   loss: 0.9246, acc: 0.8844, f1: 0.8123
+Phase 1 - Epoch 49/200
+  Train loss: 0.9269, acc: 0.8833, f1: 0.8129
+  Val   loss: 0.9189, acc: 0.8894, f1: 0.8242
+Phase 1 - Epoch 50/200
+  Train loss: 0.9311, acc: 0.8809, f1: 0.8033
+  Val   loss: 0.9243, acc: 0.8860, f1: 0.8166
+Phase 1 - Epoch 51/200
+  Train loss: 0.9262, acc: 0.8845, f1: 0.8098
+  Val   loss: 0.9177, acc: 0.8891, f1: 0.8227
+Phase 1 - Epoch 52/200
+  Train loss: 0.9261, acc: 0.8829, f1: 0.8142
+  Val   loss: 0.9225, acc: 0.8875, f1: 0.8265
+Phase 1 - Epoch 53/200
+  Train loss: 0.9245, acc: 0.8863, f1: 0.8175
+  Val   loss: 0.9185, acc: 0.8894, f1: 0.8225
+Phase 1 - Epoch 54/200
+  Train loss: 0.9233, acc: 0.8844, f1: 0.8149
+  Val   loss: 0.9227, acc: 0.8862, f1: 0.7957
+Phase 1 - Epoch 55/200
+  Train loss: 0.9195, acc: 0.8879, f1: 0.8210
+  Val   loss: 0.9153, acc: 0.8924, f1: 0.8198
+Phase 1 - Epoch 56/200
+  Train loss: 0.9194, acc: 0.8901, f1: 0.8195
+  Val   loss: 0.9123, acc: 0.8943, f1: 0.8302
+Phase 1 - Epoch 57/200
+  Train loss: 0.9179, acc: 0.8901, f1: 0.8269
+  Val   loss: 0.9398, acc: 0.8803, f1: 0.8157
+Phase 1 - Epoch 58/200
+  Train loss: 0.9177, acc: 0.8898, f1: 0.8273
+  Val   loss: 0.9123, acc: 0.8952, f1: 0.8290
+Phase 1 - Epoch 59/200
+  Train loss: 0.9162, acc: 0.8922, f1: 0.8259
+  Val   loss: 0.9103, acc: 0.8971, f1: 0.8420
+Phase 1 - Epoch 60/200
+  Train loss: 0.9149, acc: 0.8933, f1: 0.8340
+  Val   loss: 0.9229, acc: 0.8886, f1: 0.8362
+Phase 1 - Epoch 61/200
+  Train loss: 0.9165, acc: 0.8916, f1: 0.8322
+  Val   loss: 0.9067, acc: 0.9011, f1: 0.8428
+Phase 1 - Epoch 62/200
+  Train loss: 0.9135, acc: 0.8932, f1: 0.8382
+  Val   loss: 0.9050, acc: 0.9022, f1: 0.8494
+Phase 1 - Epoch 63/200
+  Train loss: 0.9108, acc: 0.8967, f1: 0.8390
+  Val   loss: 0.9046, acc: 0.9011, f1: 0.8400
+Phase 1 - Epoch 64/200
+  Train loss: 0.9112, acc: 0.8961, f1: 0.8370
+  Val   loss: 0.9060, acc: 0.9007, f1: 0.8478
+Phase 1 - Epoch 65/200
+  Train loss: 0.9083, acc: 0.8996, f1: 0.8411
+  Val   loss: 0.9073, acc: 0.9011, f1: 0.8460
+Phase 1 - Epoch 66/200
+  Train loss: 0.9102, acc: 0.8975, f1: 0.8436
+  Val   loss: 0.8997, acc: 0.9054, f1: 0.8539
+Phase 1 - Epoch 67/200
+  Train loss: 0.9039, acc: 0.9012, f1: 0.8456
+  Val   loss: 0.8980, acc: 0.9071, f1: 0.8582
+Phase 1 - Epoch 68/200
+  Train loss: 0.9030, acc: 0.9010, f1: 0.8511
+  Val   loss: 0.9156, acc: 0.8967, f1: 0.8456
+Phase 1 - Epoch 69/200
+  Train loss: 0.9030, acc: 0.9032, f1: 0.8472
+  Val   loss: 0.8968, acc: 0.9089, f1: 0.8594
+Phase 1 - Epoch 70/200
+  Train loss: 0.9017, acc: 0.9036, f1: 0.8534
+  Val   loss: 0.8965, acc: 0.9079, f1: 0.8587
+Phase 1 - Epoch 71/200
+  Train loss: 0.8993, acc: 0.9070, f1: 0.8603
+  Val   loss: 0.9004, acc: 0.9066, f1: 0.8558
+Phase 1 - Epoch 72/200
+  Train loss: 0.9002, acc: 0.9054, f1: 0.8603
+  Val   loss: 0.8968, acc: 0.9075, f1: 0.8547
+Phase 1 - Epoch 73/200
+  Train loss: 0.8967, acc: 0.9081, f1: 0.8588
+  Val   loss: 0.8896, acc: 0.9134, f1: 0.8623
+Phase 1 - Epoch 74/200
+  Train loss: 0.8961, acc: 0.9079, f1: 0.8623
+  Val   loss: 0.8900, acc: 0.9142, f1: 0.8654
+Phase 1 - Epoch 75/200
+  Train loss: 0.8957, acc: 0.9092, f1: 0.8635
+  Val   loss: 0.8901, acc: 0.9142, f1: 0.8611
+Phase 1 - Epoch 76/200
+  Train loss: 0.8935, acc: 0.9117, f1: 0.8643
+  Val   loss: 0.8906, acc: 0.9121, f1: 0.8710
+Phase 1 - Epoch 77/200
+  Train loss: 0.8917, acc: 0.9122, f1: 0.8630
+  Val   loss: 0.8867, acc: 0.9161, f1: 0.8745
+Phase 1 - Epoch 78/200
+  Train loss: 0.8895, acc: 0.9158, f1: 0.8695
+  Val   loss: 0.8793, acc: 0.9231, f1: 0.8843
+Phase 1 - Epoch 79/200
+  Train loss: 0.8881, acc: 0.9154, f1: 0.8765
+  Val   loss: 0.8859, acc: 0.9171, f1: 0.8766
+Phase 1 - Epoch 80/200
+  Train loss: 0.8851, acc: 0.9195, f1: 0.8770
+  Val   loss: 0.8848, acc: 0.9185, f1: 0.8800
+Phase 1 - Epoch 81/200
+  Train loss: 0.8847, acc: 0.9199, f1: 0.8765
+  Val   loss: 0.8763, acc: 0.9235, f1: 0.8899
+Phase 1 - Epoch 82/200
+  Train loss: 0.8846, acc: 0.9188, f1: 0.8777
+  Val   loss: 0.8780, acc: 0.9235, f1: 0.8891
+Phase 1 - Epoch 83/200
+  Train loss: 0.8805, acc: 0.9222, f1: 0.8837
+  Val   loss: 0.8773, acc: 0.9253, f1: 0.8856
+Phase 1 - Epoch 84/200
+  Train loss: 0.8769, acc: 0.9242, f1: 0.8880
+  Val   loss: 0.8795, acc: 0.9224, f1: 0.8787
+Phase 1 - Epoch 85/200
+  Train loss: 0.8791, acc: 0.9237, f1: 0.8872
+  Val   loss: 0.8736, acc: 0.9280, f1: 0.8953
+Phase 1 - Epoch 86/200
+  Train loss: 0.8783, acc: 0.9231, f1: 0.8867
+  Val   loss: 0.8707, acc: 0.9300, f1: 0.8940
+Phase 1 - Epoch 87/200
+  Train loss: 0.8756, acc: 0.9264, f1: 0.8885
+  Val   loss: 0.8838, acc: 0.9225, f1: 0.8874
+Phase 1 - Epoch 88/200
+  Train loss: 0.8746, acc: 0.9261, f1: 0.8893
+  Val   loss: 0.8677, acc: 0.9317, f1: 0.8993
+Phase 1 - Epoch 89/200
+  Train loss: 0.8717, acc: 0.9286, f1: 0.8903
+  Val   loss: 0.8628, acc: 0.9341, f1: 0.9058
+Phase 1 - Epoch 90/200
+  Train loss: 0.8699, acc: 0.9299, f1: 0.8940
+  Val   loss: 0.8769, acc: 0.9258, f1: 0.8921
+Phase 1 - Epoch 91/200
+  Train loss: 0.8660, acc: 0.9326, f1: 0.9031
+  Val   loss: 0.8671, acc: 0.9308, f1: 0.8988
+Phase 1 - Epoch 92/200
+  Train loss: 0.8655, acc: 0.9330, f1: 0.9023
+  Val   loss: 0.8657, acc: 0.9321, f1: 0.9011
+Phase 1 - Epoch 93/200
+  Train loss: 0.8648, acc: 0.9341, f1: 0.9037
+  Val   loss: 0.8605, acc: 0.9371, f1: 0.9065
+Phase 1 - Epoch 94/200
+  Train loss: 0.8666, acc: 0.9325, f1: 0.9045
+  Val   loss: 0.8596, acc: 0.9384, f1: 0.9060
+Phase 1 - Epoch 95/200
+  Train loss: 0.8632, acc: 0.9350, f1: 0.9037
+  Val   loss: 0.8600, acc: 0.9395, f1: 0.9109
+Phase 1 - Epoch 96/200
+  Train loss: 0.8629, acc: 0.9353, f1: 0.9048
+  Val   loss: 0.8553, acc: 0.9416, f1: 0.9146
+Phase 1 - Epoch 97/200
+  Train loss: 0.8577, acc: 0.9388, f1: 0.9138
+  Val   loss: 0.8590, acc: 0.9391, f1: 0.9113
+Phase 1 - Epoch 98/200
+  Train loss: 0.8573, acc: 0.9392, f1: 0.9085
+  Val   loss: 0.8517, acc: 0.9421, f1: 0.9185
+Phase 1 - Epoch 99/200
+  Train loss: 0.8596, acc: 0.9391, f1: 0.9134
+  Val   loss: 0.8501, acc: 0.9457, f1: 0.9177
+Phase 1 - Epoch 100/200
+  Train loss: 0.8549, acc: 0.9416, f1: 0.9176
+  Val   loss: 0.8457, acc: 0.9496, f1: 0.9268
+Phase 1 - Epoch 101/200
+  Train loss: 0.8557, acc: 0.9407, f1: 0.9107
+  Val   loss: 0.8626, acc: 0.9383, f1: 0.9123
+Phase 1 - Epoch 102/200
+  Train loss: 0.8536, acc: 0.9437, f1: 0.9167
+  Val   loss: 0.8446, acc: 0.9481, f1: 0.9263
+Phase 1 - Epoch 103/200
+  Train loss: 0.8500, acc: 0.9444, f1: 0.9185
+  Val   loss: 0.8549, acc: 0.9421, f1: 0.9163
+Phase 1 - Epoch 104/200
+  Train loss: 0.8524, acc: 0.9440, f1: 0.9211
+  Val   loss: 0.8441, acc: 0.9481, f1: 0.9219
+Phase 1 - Epoch 105/200
+  Train loss: 0.8473, acc: 0.9468, f1: 0.9196
+  Val   loss: 0.8454, acc: 0.9490, f1: 0.9209
+Phase 1 - Epoch 106/200
+  Train loss: 0.8507, acc: 0.9440, f1: 0.9159
+  Val   loss: 0.8439, acc: 0.9495, f1: 0.9226
+Phase 1 - Epoch 107/200
+  Train loss: 0.8468, acc: 0.9476, f1: 0.9236
+  Val   loss: 0.8399, acc: 0.9521, f1: 0.9275
+Phase 1 - Epoch 108/200
+  Train loss: 0.8465, acc: 0.9483, f1: 0.9267
+  Val   loss: 0.8377, acc: 0.9530, f1: 0.9315
+Phase 1 - Epoch 109/200
+  Train loss: 0.8463, acc: 0.9488, f1: 0.9267
+  Val   loss: 0.8371, acc: 0.9560, f1: 0.9330
+Phase 1 - Epoch 110/200
+  Train loss: 0.8433, acc: 0.9494, f1: 0.9270
+  Val   loss: 0.8413, acc: 0.9523, f1: 0.9286
+Phase 1 - Epoch 111/200
+  Train loss: 0.8431, acc: 0.9501, f1: 0.9259
+  Val   loss: 0.8395, acc: 0.9516, f1: 0.9294
+Phase 1 - Epoch 112/200
+  Train loss: 0.8389, acc: 0.9527, f1: 0.9308
+  Val   loss: 0.8452, acc: 0.9484, f1: 0.9260
+Phase 1 - Epoch 113/200
+  Train loss: 0.8399, acc: 0.9517, f1: 0.9312
+  Val   loss: 0.8407, acc: 0.9515, f1: 0.9272
+Phase 1 - Epoch 114/200
+  Train loss: 0.8417, acc: 0.9510, f1: 0.9268
+  Val   loss: 0.8299, acc: 0.9591, f1: 0.9410
+Phase 1 - Epoch 115/200
+  Train loss: 0.8400, acc: 0.9538, f1: 0.9330
+  Val   loss: 0.8354, acc: 0.9552, f1: 0.9318
+Phase 1 - Epoch 116/200
+  Train loss: 0.8349, acc: 0.9554, f1: 0.9367
+  Val   loss: 0.8396, acc: 0.9526, f1: 0.9307
+Phase 1 - Epoch 117/200
+  Train loss: 0.8386, acc: 0.9534, f1: 0.9329
+  Val   loss: 0.8339, acc: 0.9555, f1: 0.9372
+Phase 1 - Epoch 118/200
+  Train loss: 0.8349, acc: 0.9563, f1: 0.9377
+  Val   loss: 0.8285, acc: 0.9592, f1: 0.9405
+Phase 1 - Epoch 119/200
+  Train loss: 0.8340, acc: 0.9565, f1: 0.9325
+  Val   loss: 0.8288, acc: 0.9604, f1: 0.9410
+Phase 1 - Epoch 120/200
+  Train loss: 0.8341, acc: 0.9563, f1: 0.9392
+  Val   loss: 0.8296, acc: 0.9594, f1: 0.9426
+Phase 1 - Epoch 121/200
+  Train loss: 0.8344, acc: 0.9565, f1: 0.9403
+  Val   loss: 0.8288, acc: 0.9603, f1: 0.9389
+Phase 1 - Epoch 122/200
+  Train loss: 0.8336, acc: 0.9566, f1: 0.9401
+  Val   loss: 0.8332, acc: 0.9569, f1: 0.9404
+Phase 1 - Epoch 123/200
+  Train loss: 0.8324, acc: 0.9586, f1: 0.9425
+  Val   loss: 0.8310, acc: 0.9593, f1: 0.9445
+Phase 1 - Epoch 124/200
+  Train loss: 0.8347, acc: 0.9570, f1: 0.9374
+  Val   loss: 0.8233, acc: 0.9626, f1: 0.9446
+Phase 1 - Epoch 125/200
+  Train loss: 0.8298, acc: 0.9596, f1: 0.9407
+  Val   loss: 0.8267, acc: 0.9620, f1: 0.9450
+Phase 1 - Epoch 126/200
+  Train loss: 0.8320, acc: 0.9587, f1: 0.9408
+  Val   loss: 0.8237, acc: 0.9633, f1: 0.9462
+Phase 1 - Epoch 127/200
+  Train loss: 0.8273, acc: 0.9614, f1: 0.9478
+  Val   loss: 0.8255, acc: 0.9617, f1: 0.9454
+Phase 1 - Epoch 128/200
+  Train loss: 0.8305, acc: 0.9583, f1: 0.9364
+  Val   loss: 0.8206, acc: 0.9644, f1: 0.9499
+Phase 1 - Epoch 129/200
+  Train loss: 0.8313, acc: 0.9585, f1: 0.9390
+  Val   loss: 0.8207, acc: 0.9659, f1: 0.9505
+Phase 1 - Epoch 130/200
+  Train loss: 0.8304, acc: 0.9591, f1: 0.9388
+  Val   loss: 0.8264, acc: 0.9604, f1: 0.9455
+Phase 1 - Epoch 131/200
+  Train loss: 0.8280, acc: 0.9604, f1: 0.9397
+  Val   loss: 0.8226, acc: 0.9644, f1: 0.9502
+Phase 1 - Epoch 132/200
+  Train loss: 0.8269, acc: 0.9621, f1: 0.9462
+  Val   loss: 0.8191, acc: 0.9670, f1: 0.9514
+Phase 1 - Epoch 133/200
+  Train loss: 0.8278, acc: 0.9598, f1: 0.9427
+  Val   loss: 0.8193, acc: 0.9661, f1: 0.9492
+Phase 1 - Epoch 134/200
+  Train loss: 0.8239, acc: 0.9639, f1: 0.9486
+  Val   loss: 0.8216, acc: 0.9640, f1: 0.9495
+Phase 1 - Epoch 135/200
+  Train loss: 0.8260, acc: 0.9621, f1: 0.9472
+  Val   loss: 0.8211, acc: 0.9658, f1: 0.9502
+Phase 1 - Epoch 136/200
+  Train loss: 0.8252, acc: 0.9635, f1: 0.9467
+  Val   loss: 0.8216, acc: 0.9662, f1: 0.9509
+Phase 1 - Epoch 137/200
+  Train loss: 0.8243, acc: 0.9640, f1: 0.9492
+  Val   loss: 0.8205, acc: 0.9662, f1: 0.9517
+Phase 1 - Epoch 138/200
+  Train loss: 0.8251, acc: 0.9626, f1: 0.9458
+  Val   loss: 0.8238, acc: 0.9639, f1: 0.9490
+Phase 1 - Epoch 139/200
+  Train loss: 0.8272, acc: 0.9618, f1: 0.9449
+  Val   loss: 0.8208, acc: 0.9652, f1: 0.9519
+Phase 1 - Epoch 140/200
+  Train loss: 0.8218, acc: 0.9654, f1: 0.9489
+  Val   loss: 0.8140, acc: 0.9693, f1: 0.9556
+Phase 1 - Epoch 141/200
+  Train loss: 0.8223, acc: 0.9648, f1: 0.9490
+  Val   loss: 0.8191, acc: 0.9668, f1: 0.9534
+Phase 1 - Epoch 142/200
+  Train loss: 0.8209, acc: 0.9654, f1: 0.9551
+  Val   loss: 0.8196, acc: 0.9664, f1: 0.9517
+Phase 1 - Epoch 143/200
+  Train loss: 0.8208, acc: 0.9661, f1: 0.9528
+  Val   loss: 0.8176, acc: 0.9680, f1: 0.9521
+Phase 1 - Epoch 144/200
+  Train loss: 0.8239, acc: 0.9634, f1: 0.9479
+  Val   loss: 0.8150, acc: 0.9690, f1: 0.9565
+Phase 1 - Epoch 145/200
+  Train loss: 0.8188, acc: 0.9672, f1: 0.9534
+  Val   loss: 0.8140, acc: 0.9689, f1: 0.9575
+Phase 1 - Epoch 146/200
+  Train loss: 0.8192, acc: 0.9670, f1: 0.9543
+  Val   loss: 0.8240, acc: 0.9644, f1: 0.9535
+Phase 1 - Epoch 147/200
+  Train loss: 0.8213, acc: 0.9659, f1: 0.9521
+  Val   loss: 0.8220, acc: 0.9652, f1: 0.9529
+Phase 1 - Epoch 148/200
+  Train loss: 0.8195, acc: 0.9662, f1: 0.9523
+  Val   loss: 0.8150, acc: 0.9691, f1: 0.9579
+Phase 1 - Epoch 149/200
+  Train loss: 0.8194, acc: 0.9670, f1: 0.9539
+  Val   loss: 0.8161, acc: 0.9681, f1: 0.9556
+Phase 1 - Epoch 150/200
+  Train loss: 0.8178, acc: 0.9673, f1: 0.9548
+  Val   loss: 0.8123, acc: 0.9698, f1: 0.9566
+Phase 1 - Epoch 151/200
+  Train loss: 0.8192, acc: 0.9672, f1: 0.9536
+  Val   loss: 0.8132, acc: 0.9702, f1: 0.9601
+Phase 1 - Epoch 152/200
+  Train loss: 0.8159, acc: 0.9689, f1: 0.9539
+  Val   loss: 0.8192, acc: 0.9659, f1: 0.9529
+Phase 1 - Epoch 153/200
+  Train loss: 0.8173, acc: 0.9668, f1: 0.9560
+  Val   loss: 0.8136, acc: 0.9708, f1: 0.9589
+Phase 1 - Epoch 154/200
+  Train loss: 0.8132, acc: 0.9710, f1: 0.9598
+  Val   loss: 0.8117, acc: 0.9717, f1: 0.9595
+Phase 1 - Epoch 155/200
+  Train loss: 0.8161, acc: 0.9687, f1: 0.9568
+  Val   loss: 0.8079, acc: 0.9743, f1: 0.9647
+Phase 1 - Epoch 156/200
+  Train loss: 0.8157, acc: 0.9686, f1: 0.9569
+  Val   loss: 0.8128, acc: 0.9701, f1: 0.9603
+Phase 1 - Epoch 157/200
+  Train loss: 0.8151, acc: 0.9695, f1: 0.9562
+  Val   loss: 0.8149, acc: 0.9690, f1: 0.9565
+Phase 1 - Epoch 158/200
+  Train loss: 0.8149, acc: 0.9697, f1: 0.9603
+  Val   loss: 0.8101, acc: 0.9729, f1: 0.9625
+Phase 1 - Epoch 159/200
+  Train loss: 0.8149, acc: 0.9698, f1: 0.9563
+  Val   loss: 0.8091, acc: 0.9729, f1: 0.9625
+Phase 1 - Epoch 160/200
+  Train loss: 0.8143, acc: 0.9703, f1: 0.9600
+  Val   loss: 0.8102, acc: 0.9726, f1: 0.9625
+Phase 1 - Epoch 161/200
+  Train loss: 0.8150, acc: 0.9688, f1: 0.9560
+  Val   loss: 0.8175, acc: 0.9682, f1: 0.9570
+Phase 1 - Epoch 162/200
+  Train loss: 0.8136, acc: 0.9707, f1: 0.9584
+  Val   loss: 0.8111, acc: 0.9713, f1: 0.9593
+Phase 1 - Epoch 163/200
+  Train loss: 0.8110, acc: 0.9720, f1: 0.9620
+  Val   loss: 0.8129, acc: 0.9706, f1: 0.9587
+Phase 1 - Epoch 164/200
+  Train loss: 0.8119, acc: 0.9709, f1: 0.9581
+  Val   loss: 0.8077, acc: 0.9746, f1: 0.9637
+Phase 1 - Epoch 165/200
+  Train loss: 0.8094, acc: 0.9724, f1: 0.9642
+  Val   loss: 0.8068, acc: 0.9744, f1: 0.9652
+Phase 1 - Epoch 166/200
+  Train loss: 0.8135, acc: 0.9695, f1: 0.9585
+  Val   loss: 0.8118, acc: 0.9717, f1: 0.9626
+Phase 1 - Epoch 167/200
+  Train loss: 0.8121, acc: 0.9705, f1: 0.9593
+  Val   loss: 0.8071, acc: 0.9746, f1: 0.9631
+Phase 1 - Epoch 168/200
+  Train loss: 0.8096, acc: 0.9736, f1: 0.9614
+  Val   loss: 0.8087, acc: 0.9743, f1: 0.9621
+Phase 1 - Epoch 169/200
+  Train loss: 0.8108, acc: 0.9721, f1: 0.9623
+  Val   loss: 0.8139, acc: 0.9702, f1: 0.9608
+Phase 1 - Epoch 170/200
+  Train loss: 0.8104, acc: 0.9731, f1: 0.9626
+  Val   loss: 0.8081, acc: 0.9744, f1: 0.9652
+Phase 1 - Epoch 171/200
+  Train loss: 0.8093, acc: 0.9722, f1: 0.9626
+  Val   loss: 0.8090, acc: 0.9729, f1: 0.9608
+Phase 1 - Epoch 172/200
+  Train loss: 0.8105, acc: 0.9725, f1: 0.9595
+  Val   loss: 0.8060, acc: 0.9745, f1: 0.9662
+Phase 1 - Epoch 173/200
+  Train loss: 0.8097, acc: 0.9728, f1: 0.9626
+  Val   loss: 0.8082, acc: 0.9734, f1: 0.9648
+Phase 1 - Epoch 174/200
+  Train loss: 0.8091, acc: 0.9742, f1: 0.9629
+  Val   loss: 0.8057, acc: 0.9756, f1: 0.9654
+Phase 1 - Epoch 175/200
+  Train loss: 0.8088, acc: 0.9729, f1: 0.9635
+  Val   loss: 0.8035, acc: 0.9765, f1: 0.9680
+Phase 1 - Epoch 176/200
+  Train loss: 0.8078, acc: 0.9735, f1: 0.9622
+  Val   loss: 0.8081, acc: 0.9736, f1: 0.9653
+Phase 1 - Epoch 177/200
+  Train loss: 0.8081, acc: 0.9733, f1: 0.9633
+  Val   loss: 0.8075, acc: 0.9732, f1: 0.9607
+Phase 1 - Epoch 178/200
+  Train loss: 0.8079, acc: 0.9734, f1: 0.9619
+  Val   loss: 0.8087, acc: 0.9744, f1: 0.9655
+Phase 1 - Epoch 179/200
+  Train loss: 0.8085, acc: 0.9732, f1: 0.9638
+  Val   loss: 0.8077, acc: 0.9738, f1: 0.9662
+Phase 1 - Epoch 180/200
+  Train loss: 0.8080, acc: 0.9743, f1: 0.9649
+  Val   loss: 0.8044, acc: 0.9762, f1: 0.9670
+Phase 1 - Epoch 181/200
+  Train loss: 0.8075, acc: 0.9745, f1: 0.9622
+  Val   loss: 0.8000, acc: 0.9785, f1: 0.9716
+Phase 1 - Epoch 182/200
+  Train loss: 0.8073, acc: 0.9738, f1: 0.9634
+  Val   loss: 0.8042, acc: 0.9767, f1: 0.9672
+Phase 1 - Epoch 183/200
+  Train loss: 0.8037, acc: 0.9764, f1: 0.9686
+  Val   loss: 0.7999, acc: 0.9781, f1: 0.9712
+Phase 1 - Epoch 184/200
+  Train loss: 0.8061, acc: 0.9749, f1: 0.9665
+  Val   loss: 0.8056, acc: 0.9754, f1: 0.9646
+Phase 1 - Epoch 185/200
+  Train loss: 0.8063, acc: 0.9746, f1: 0.9641
+  Val   loss: 0.7990, acc: 0.9799, f1: 0.9721
+Phase 1 - Epoch 186/200
+  Train loss: 0.8054, acc: 0.9752, f1: 0.9661
+  Val   loss: 0.8022, acc: 0.9778, f1: 0.9677
+Phase 1 - Epoch 187/200
+  Train loss: 0.8034, acc: 0.9769, f1: 0.9703
+  Val   loss: 0.8025, acc: 0.9774, f1: 0.9686
+Phase 1 - Epoch 188/200
+  Train loss: 0.8061, acc: 0.9761, f1: 0.9676
+  Val   loss: 0.8002, acc: 0.9780, f1: 0.9690
+Phase 1 - Epoch 189/200
+  Train loss: 0.8071, acc: 0.9739, f1: 0.9653
+  Val   loss: 0.7994, acc: 0.9789, f1: 0.9692
+Phase 1 - Epoch 190/200
+  Train loss: 0.8027, acc: 0.9771, f1: 0.9692
+  Val   loss: 0.8005, acc: 0.9788, f1: 0.9708
+Phase 1 - Epoch 191/200
+  Train loss: 0.8027, acc: 0.9768, f1: 0.9689
+  Val   loss: 0.7998, acc: 0.9789, f1: 0.9714
+Phase 1 - Epoch 192/200
+  Train loss: 0.8036, acc: 0.9763, f1: 0.9687
+  Val   loss: 0.8008, acc: 0.9780, f1: 0.9700
+Phase 1 - Epoch 193/200
+  Train loss: 0.8031, acc: 0.9769, f1: 0.9679
+  Val   loss: 0.8018, acc: 0.9779, f1: 0.9697
+Phase 1 - Epoch 194/200
+  Train loss: 0.8038, acc: 0.9768, f1: 0.9689
+  Val   loss: 0.8011, acc: 0.9783, f1: 0.9720
+Phase 1 - Epoch 195/200
+  Train loss: 0.8072, acc: 0.9744, f1: 0.9647
+  Val   loss: 0.8026, acc: 0.9783, f1: 0.9690
+Phase 1 - Epoch 196/200
+  Train loss: 0.8045, acc: 0.9760, f1: 0.9685
+  Val   loss: 0.7961, acc: 0.9814, f1: 0.9741
+Phase 1 - Epoch 197/200
+  Train loss: 0.8032, acc: 0.9772, f1: 0.9677
+  Val   loss: 0.8007, acc: 0.9794, f1: 0.9708
+Phase 1 - Epoch 198/200
+  Train loss: 0.8032, acc: 0.9761, f1: 0.9663
+  Val   loss: 0.7991, acc: 0.9795, f1: 0.9718
+Phase 1 - Epoch 199/200
+  Train loss: 0.8042, acc: 0.9767, f1: 0.9679
+  Val   loss: 0.7988, acc: 0.9799, f1: 0.9730
+Phase 1 - Epoch 200/200
+  Train loss: 0.8004, acc: 0.9785, f1: 0.9692
+  Val   loss: 0.8012, acc: 0.9778, f1: 0.9707
+  Test  loss: 1.4849, acc: 0.6637, f1: 0.6534
